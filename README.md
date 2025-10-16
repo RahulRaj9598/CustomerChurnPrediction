@@ -102,15 +102,21 @@ graph TD
 - Interactive visualizations of churn patterns
 - Feature analysis and correlations
 
+![Dashboard Overview](./images/Dashboard-overview.png)
+
 ### 🔍 Predict Churn Tab
 - Interactive customer input form
 - Real-time churn probability calculation
 - Risk assessment with actionable recommendations
 
+![Predict Churn](./images/Model-Prediction.png)
+
 ### 📊 Insights Tab
 - Model performance metrics
 - Feature importance analysis
 - Advanced analytics and trends
+
+![Model Insights](./images/Model-Insights.png)
 
 ## 🔬 Model Development Process
 
